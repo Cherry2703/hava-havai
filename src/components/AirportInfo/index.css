@@ -1,0 +1,36 @@
+.menu-view{
+    display: flex;
+    list-style-type:none;
+}
+.menu-view li{
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.terminal-cont{
+    border: 1px solid #a5a3a3;
+    padding-right: 3px;
+    border-radius: 1px;
+    margin: 5px;
+}
+.terminal-conts{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+.trigger-button{
+    background-color: transparent;
+    align-items: center;
+    color: #000;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #000;
+}
+.text-area-popup{
+    border: none;
+}
+.popup-btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

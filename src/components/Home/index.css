@@ -1,0 +1,9 @@
+.hr{
+    color: #000;
+    
+    height: 1px solid red;
+}
+
+.r{
+    display: flex;
+}
